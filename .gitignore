@@ -1,0 +1,7 @@
+# Ignore all the examples and the private repos.
+center_in_pocket/
+images/
+samples/
+urcap-generator/
+URcapX/
+
