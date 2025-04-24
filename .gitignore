@@ -5,3 +5,5 @@ samples/
 urcap-generator/
 URcapX/
 
+newurcap.sh
+run-simulator
