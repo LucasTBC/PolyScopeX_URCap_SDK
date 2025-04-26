@@ -4,7 +4,8 @@ images/
 samples/
 urcap-generator/
 URcapX/
-Turbocam_RoboDB/
+Turbocam_URcapX/
+Turbocam/
 
 newurcap.sh
 run-simulator
